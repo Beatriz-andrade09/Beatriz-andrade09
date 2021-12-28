@@ -22,8 +22,14 @@
      <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
      <img height="32"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
  </div>
+ 
 
-
+## 🚀 Projetos recentes com HTML e CSS
+   <div>
+    <a href="https://beatriz-andrade09.github.io/site-comercial/" target="_blank">💜 Site comercial </a>
+    <br>
+    <a href="https://beatriz-andrade09.github.io/Little-Mix/" target="_blank">💜 Hackathon: Little Mix</a> 
+ </div>
  
  ## ⭐ Informações sobre minha conta GitHub
 
