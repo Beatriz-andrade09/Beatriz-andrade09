@@ -37,13 +37,13 @@
   ## 💌 Entre em contato comigo: ⤵️
 
   <p >
-  <a href="https://mail.google.com/mail/u/0/fs=1&tf=cm&source=mailto&to=Beatrizandrade1032@gmail.com" alt="Gmail">
+  <a href="https://mail.google.com/mail/u/0/fs=1&tf=cm&source=mailto&to=Beatrizandrade1032@gmail.com"  target="_blank"  alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
  
-  <a href="https://www.linkedin.com/in/beatriz-andrade-09478515b/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/beatriz-andrade-09478515b/" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 
-  <a href="https://api.whatsapp.com/send?phone=557998878890" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=5579988788904" target="_blank" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
 </p>
 
