@@ -13,14 +13,14 @@
   
  ## 🚀 Estou estudando  
    <div>
-   <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
    <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
  </div>
   
    ## 🚀 Noções
    <div>
      <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
-     <img height="32"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
+     <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
  </div>
  
 
@@ -30,6 +30,16 @@
     <br>
     <a href="https://beatriz-andrade09.github.io/Little-Mix/" target="_blank">💜 Hackathon: Little Mix</a> 
  </div>
+ 
+ ## 🚀 Ferramentas
+ 
+ <div>
+    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+    <img height="32" src="https://netbeans.apache.org/images/apache-netbeans.svg?raw=true" alt="Netbeans" />
+    <img height="32" src="https://github.com/caidevOficial/Resume/blob/main/media/icons/ubuntu/ubuntu-plain-wordmark.svg?raw=true" />
+    <img height="32" src="https://github.com/caidevOficial/Logos/blob/master/Lenguajes/windows.svg?raw=true" alt="Windows" />
+    <img height="32" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+</div>
  
  ## ⭐ Informações sobre minha conta GitHub
 
