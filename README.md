@@ -13,13 +13,14 @@
   
  ## 🚀 Estou estudando  
    <div>
-   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-   <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
+    <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
  </div>
   
    ## 🚀 Noções
    <div>
-     <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
+     <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
      <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
  </div>
  
@@ -57,8 +58,5 @@
  
   <a href="https://www.linkedin.com/in/beatriz-andrade-09478515b/" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-
-  <a href="https://api.whatsapp.com/send?phone=5579988788904" target="_blank" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
 </p>
 
