@@ -1,32 +1,25 @@
-## 💜 Olá, meu nome é <strong> Beatriz Andrade!</strong>
+## Hello, world! ✨</strong>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Beatriz">
 
 
  ##  Principais tecnologias que possuo conhecimento
 <div>
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
-  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
+  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
+  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   </div>
   
- ## 🚀 Estou estudando  
+ ##  Estou estudando  🚀
    <div>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
-    <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-    <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
-    <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img height="32" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+    <img height="32" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809ag">
+    <img height="32" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png">
+    <img height="32" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png">
+
  </div>
   
-## 🚀 Projetos recentes com HTML e CSS
-   <div>
-    <a href="https://beatriz-andrade09.github.io/site-comercial/" target="_blank">💜 Site comercial </a>
-    <br>
-    <a href="https://beatriz-andrade09.github.io/Little-Mix/" target="_blank">💜 Hackathon: Little Mix</a> 
- </div>
- 
- ## ⭐ Informações sobre minha conta GitHub
+ ##  Informações sobre minha conta GitHub ⭐
 
 <div>
   <a href="https://github.com/beatriz-andrade09">
