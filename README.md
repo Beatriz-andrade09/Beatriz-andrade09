@@ -1,4 +1,4 @@
-Olá! Sou Beatriz, uma desenvolvedora back-end apaixonada por tecnologia. Atualmente, estou expandindo minhas habilidades com cursos em front-end, Python e inglês pela Open English. Além de programar, adoro mergulhar em livros e muitas vezes faço isso ao som das músicas da Taylor Swift.
+Olá! Sou Beatriz, uma desenvolvedora back-end apaixonada por tecnologia. Atualmente, estou expandindo minhas habilidades com cursos em front-end e Python. Além de programar, adoro mergulhar em livros e muitas vezes faço isso ao som das músicas da Taylor Swift.
 
 Adoro conhecer novas pessoas e trocar ideias! Sinta-se à vontade para me seguir ou entrar em contato comigo nas redes sociais.
 
