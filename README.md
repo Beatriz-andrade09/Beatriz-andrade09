@@ -1,30 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D7256F&width=437&lines=Ol%C3%A1%2C+sou+Beatriz!+%E2%9C%A8)](https://git.io/typing-svg)
 
-<img src="https://i.pinimg.com/1200x/65/04/73/650473ebce0ae301ed87516058457754.jpg" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador Beatriz">
+<div>
 
-```javascript
-const beatriz = {
-  sobre: "Desenvolvedora back-end apaixonada por tecnologia",
-  fazendo: "Explorando o universo front-end",
-  tecnologias: [
-    "HTML5",
-    "CSS3",
-    "JavaScript",
-    "PHP",
-    "TypeScript",
-    "React"
-  ],
-  ferramentas: [
-    "Docker",
-    "MySQL",
-    "AWS",
-    "Git",
-    "Ubuntu"
-  ]
-};
+  ```javascript
+  const beatriz = {
+    sobre: "Desenvolvedora back-end apaixonada por tecnologia",
+    fazendo: "Explorando o universo front-end",
+    tecnologias: ["HTML5", "CSS3", "JavaScript", "PHP", "TypeScript", "React"],
+    ferramentas: ["Docker", "MySQL", "AWS", "Git", "Ubuntu"]
+  };
+  
+  ```
+</div>
 
-
-```
+<img src="https://i.pinimg.com/1200x/65/04/73/650473ebce0ae301ed87516058457754.jpg" align="right" height="200px">
 
 Adoro conhecer novas pessoas e trocar ideias! Sinta-se à vontade para me seguir ou entrar em contato comigo nas redes sociais.
 
